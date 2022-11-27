@@ -241,12 +241,10 @@ section .title span::after{
     width: 75%;
 }
 section .topic{
-    color: orange;
-    font-size: 25px;
-    font-weight: 500;
     justify-content: center;
-    align-items: normal;
-    margin-bottom: 10px;
+    align-items: center;
+    font-size: 20px;
+    color: orange;
 }
 .standard-details .right p{
     position: relative;
