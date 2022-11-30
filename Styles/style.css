@@ -115,7 +115,7 @@ nav .menu-btn{
     color: #2f4f5f;
 }
 nav.sticky .menu-btn{
-    margin-top: 0px;
+    margin-top: 0;
     color: white;
 }
 .navbar .meu .menu-btn{
@@ -127,7 +127,7 @@ nav.sticky .menu-btn{
     width: 100%;
     background-size: cover;
     font-family: "Ubuntu", sans-serif;
-    background: black url("../images/yolo (1).jpg") no-repeat fixed center;
+    background: url("/images/yolo (1).jpg") no-repeat fixed center;
 }
 .home .home-content{
     width: 90%;
